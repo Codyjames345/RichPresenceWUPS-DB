@@ -193,8 +193,6 @@
     "JUST DANCE 2": "justdance2.jpg",
     "JUST DANCE 3": "justdance3.jpg",
     "Just Dance 2020": "justdance2020.jpg",
-    "Kirby's Adventure Wii": "kirbysadventure.jpg",
-    "Kirby's Epic Yarn": "kirbysepicyarn.jpg",
     "Mario Party 8": "marioparty8.jpg",
     "Mario Party 9": "marioparty9.jpg",
     "Mario & Sonic at the Olympic Games": "mariosonicgames.jpg",
@@ -258,5 +256,7 @@
     "Super Mario Sunshine": "iconTex34.jpg",
     "Speed": "iconTex35.jpg",
     "SpongeBob's Boating Bash": "iconTex36.jpg",
-    "Newer SMBW": "iconTex37.jpg"
+    "Newer SMBW": "iconTex37.jpg",
+    "Kirby's Adventure Wii": "iconTex38.jpg",
+    "Kirby's Epic Yarn": "iconTex39.jpg"
 }
