@@ -4,14 +4,18 @@ Image database for the [Wii U Rich Presence plugin](https://github.com/FlamingNi
 # Contribute
 If there are games that you would like to display on your profile, but are not on this repository, you can help add them! To add games, you will need a <ins>GitHub account</ins>. It is also recommended that you install either [ftpiiu](https://github.com/wiiu-env/ftpiiu_plugin) or [WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader), and have an image converter like [ImageMagick](https://www.imagemagick.org).
 
-## Invalid Games
-Firstly, you should know what games or apps **do not** go in this repository. The following are not suitable for this plugin:
+## Added Games (since fork)
+This fork aims to add icons for Wii/Gamecube VC injects as I have added support for vWii in a custom version of the WURP client. The following are allowed:
 
 - Virtual Console injects
-  - Regular Virtual Console games are allowed
-- Applets (Friend List, Browser, Amiibo Settings, etc.)
+  - Regular Virtual Console games are also allowed
 - vWii and any Wii games
   - Includes Gamecube games from Nintendont
+
+## Invalid Games
+You should know what games or apps **do not** go in this repository. The following are not suitable for this plugin:
+
+- Applets (Friend List, Browser, Amiibo Settings, etc.)
 - Homebrew applications
 - Games already in this repository
 
